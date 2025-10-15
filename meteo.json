@@ -1,0 +1,37 @@
+[
+  {
+    "Data":"2025-01-01",
+    "Local":"Porto",
+    "Temperatura_C":36.8,
+    "Vento_km_h":28,
+    "Precipitacao_mm":1.0
+  },
+  {
+    "Data":"2025-01-02",
+    "Local":"Lisboa",
+    "Temperatura_C":35.1,
+    "Vento_km_h":12,
+    "Precipitacao_mm":1.2
+  },
+  {
+    "Data":"2025-01-03",
+    "Local":"Lisboa",
+    "Temperatura_C":27.8,
+    "Vento_km_h":11,
+    "Precipitacao_mm":1.2
+  },
+  {
+    "Data":"2025-01-04",
+    "Local":"Porto",
+    "Temperatura_C":33.2,
+    "Vento_km_h":25,
+    "Precipitacao_mm":1.3
+  },
+  {
+    "Data":"2025-01-05",
+    "Local":"Lisboa",
+    "Temperatura_C":35.3,
+    "Vento_km_h":6,
+    "Precipitacao_mm":1.2
+  }
+]

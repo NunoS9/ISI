@@ -1,0 +1,6 @@
+"row ID";"new column";"Mean(TempoResposta_min)";"Mean(Temperatura)";"First*(Precipitação)";"First*(Vento)";"DataExecucao"
+"Row0";"Acidente Rodoviário";12;;;;"2025-10-13 10:34:48"
+"Row1";"Emergência Médica";20.25;;;;"2025-10-13 10:34:48"
+"Row2";"Incêndio Florestal";25.999999999999996;35.8;"1.2";"6";"2025-10-13 10:34:48"
+"Row3";"Incêndio Urbano";17.166666666666664;36.8;"1.0";"28";"2025-10-13 10:34:48"
+"Row4";"Resgate";8.6;27.8;"1.2";"11";"2025-10-13 10:34:48"

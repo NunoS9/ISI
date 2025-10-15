@@ -1,0 +1,240 @@
+<veiculos>
+  <!-- 7 ABSC -->
+  <veiculo id="1">
+    <sigla>ABSC-01</sigla>
+    <data>12/05/2001</data>
+    <matricula> AB-12-34 </matricula>
+    <marca>Mercedes</marca>
+    <capacidade>1 maca</capacidade>
+    <estado>Em Manutencao</estado>
+  </veiculo>
+
+  <veiculo id="2">
+    <sigla>ABSC-03</sigla>
+    <data>14/07/2008</data>
+    <matricula>BV-23-24</matricula>
+    <marca>Mercedes</marca>
+    <capacidade>1 maca</capacidade>
+    <estado>a</estado>
+  </veiculo>
+  
+  <veiculo id="3">
+    <sigla>ABSC-04</sigla>
+    <data>29/02/2009</data>
+    <matricula>EF-90_12</matricula>
+    <marca>Mercedes</marca>
+    <capacidade>1 maca </capacidade>
+    <estado>atv</estado>
+  </veiculo>
+
+  <veiculo id="4">
+    <sigla>ABSC-08</sigla>
+    <data>15/06/2020</data>
+    <matricula> GH-34-56</matricula>
+    <marca>Mercedes</marca>
+    <capacidade>1 maca</capacidade>
+    <estado>ativo</estado>
+  </veiculo>
+
+  <veiculo id="5">
+    <sigla>ABSC-14</sigla>
+    <data>29/11/2023</data>
+    <matricula>IJ-78-90</matricula>
+    <marca>Mercedes</marca>
+    <capacidade>1 maca</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+  
+  <veiculo id="6">
+    <sigla>ABSC-15</sigla>
+    <data>01/01/2024</data>
+    <matricula>KI-87-90</matricula>
+    <marca>Mercedes</marca>
+    <capacidade>1 maca</capacidade>
+    <estado>activo</estado>
+  </veiculo>
+
+  <veiculo id="7">
+    <sigla>INEM-01</sigla>
+    <data>10/05/2012</data>
+    <matricula>MN-90-14 </matricula>
+    <marca>Mercedes</marca>
+    <capacidade>1 maca</capacidade>
+    <estado>atv</estado>
+  </veiculo>
+
+  <!-- 3 VFCI -->
+  <veiculo id="8">
+    <sigla>VFCI-03</sigla>
+    <data>14/06/1992</data>
+    <matricula>QA-KM-72</matricula>
+    <marca>Mercedes</marca>
+    <capacidade>5000L</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+
+  <veiculo id="9">
+    <sigla>VFCI-05</sigla>
+    <data>19/03/1995</data>
+    <matricula>QR-PO-01</matricula>
+    <marca>Renault</marca>
+    <capacidade>6000L</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+
+  <veiculo id="10">
+    <sigla>VFCI-06</sigla>
+    <data>12/08/1997</data>
+    <matricula>FG-IO-13</matricula>
+    <marca>Renault</marca>
+    <capacidade>6000L</capacidade>
+    <estado>ativo</estado>
+  </veiculo>
+
+  <!-- 3 VLCI -->
+  <veiculo id="11">
+    <sigla>VLCI-01</sigla>
+    <data>21/02/2011</data>
+    <matricula>LR-21-LI </matricula>
+    <marca>Nissan</marca>
+    <capacidade>400L</capacidade>
+    <estado>atibo</estado>
+  </veiculo>
+
+  <veiculo id="12">
+    <sigla>VLCI-03</sigla>
+    <data>07/07/2009</data>
+    <matricula>14-AA-74</matricula>
+    <marca>Land Rover</marca>
+    <capacidade>400L</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+
+  <veiculo id="13">
+    <sigla>VLCI-04</sigla>
+    <data>25/10/2024</data>
+    <matricula>BK-18-UN</matricula>
+    <marca>Toyota</marca>
+    <capacidade>500L</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+
+  <!-- 1 VAOP -->
+  <veiculo id="14">
+    <sigla>VAOP-01</sigla>
+    <data>19/09/2023</data>
+    <matricula>AB-18-10</matricula>
+    <marca>Toyota</marca>
+    <capacidade>Drones</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+
+  <!-- 2 MOTO -->
+  <veiculo id="15">
+    <sigla>MOTO-01</sigla>
+    <data>17/08/2024</data>
+    <matricula>BJ-87-09 </matricula>
+    <marca>Kawasaki</marca>
+    <capacidade>DAE</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+
+  <veiculo id="16">
+    <sigla>MOTO-02</sigla>
+    <data>17/08/2024</data>
+    <matricula>CC-35-12</matricula>
+    <marca>Kawasaki</marca>
+    <capacidade>DAE</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+
+  <!-- 1 VTTU -->
+  <veiculo id="17">
+    <sigla>VTTU-01</sigla>
+    <data>29/06/1999</data>
+    <matricula>FL-CV-20</matricula>
+    <marca>Volvo</marca>
+    <capacidade>14000L</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+
+  <!-- 1 VSAT -->
+  <veiculo id="18">
+    <sigla>VSAT-01</sigla>
+    <data>16/03/2011</data>
+    <matricula>EE-OL-18</matricula>
+    <marca>Iveco</marca>
+    <capacidade>600L</capacidade>
+    <estado>Manutencao</estado>
+  </veiculo>
+
+  <!-- 1 VTTR -->
+  <veiculo id="19">
+    <sigla>VTTR-01</sigla>
+    <data>22/09/1986</data>
+    <matricula>19-CX-NM</matricula>
+    <marca>Mercedes</marca>
+    <capacidade>16000L</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+
+  <!-- 1 VALE -->
+  <veiculo id="20">
+    <sigla>VALE-01</sigla>
+    <data>30/05/2016</data>
+    <matricula>VS-71-OH</matricula>
+    <marca>Renaut</marca>
+    <capacidade>32000L</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+
+  <!-- 1 VSAE -->
+  <veiculo id="21">
+    <sigla>VSAE-01</sigla>
+    <data>27/10/2024</data>
+    <matricula>BM-97-NQ </matricula>
+    <marca>Man</marca>
+    <capacidade>2000L</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+
+  <!-- 1 VOPE -->
+  <veiculo id="22">
+    <sigla>VOPE-02</sigla>
+    <data>31/01/1085</data>
+    <matricula>LI-UT-86</matricula>
+    <marca>Mercedes</marca>
+    <capacidade>2000L</capacidade>
+    <estado>Em manutenção</estado>
+  </veiculo>
+
+  <!-- 2 VCOT -->
+  <veiculo id="23">
+    <sigla>VCOT-01</sigla>
+    <data>27/07/2009</data>
+    <matricula>17-90-QE</matricula>
+    <marca>Nissan</marca>
+    <capacidade>PCO</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+
+  <veiculo id="24">
+    <sigla>VCOT-02</sigla>
+    <data>22/02/2021</data>
+    <matricula>KK-94-II</matricula>
+    <marca>Mercedes</marca>
+    <capacidade>PCO</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+
+  
+  <!-- 1 VECI -->
+  <veiculo id="25">
+    <sigla>VECI-01</sigla>
+    <data>18/10/1979</data>
+    <matricula>PT-47-62</matricula>
+    <marca>Volvo</marca>
+    <capacidade>5000L</capacidade>
+    <estado>Ativo</estado>
+  </veiculo>
+</veiculos>
